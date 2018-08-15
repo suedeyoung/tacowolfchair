@@ -1,0 +1,4 @@
+[08-15-2018 @ 09:22:16.350 GMT] [init.js:371] Bot modules loaded. Initializing main functions...
+[08-15-2018 @ 09:22:17.855 GMT] [logging.js:194] Starting Log Rotation
+[08-15-2018 @ 09:22:17.874 GMT] [logging.js:206] Finished Log Rotation
+[08-15-2018 @ 09:22:38.623 GMT] [donationHandler.js:40] Donation announcements enabled

@@ -1,0 +1,8 @@
+[08-12-2018 @ 04:03:19.266 GMT] jtv: now hosting fr1sky86.
+[08-12-2018 @ 04:03:19.268 GMT] Received a start host mode notification on user fr1sky86 from jtv
+[08-12-2018 @ 08:21:28.217 GMT] jtv: fr1sky86 has gone offline. exiting host mode.
+[08-12-2018 @ 08:21:28.219 GMT] jtv: fr1sky86 has gone offline. exiting host mode.
+[08-12-2018 @ 08:25:14.297 GMT] jtv: now hosting bau_fuzzy_wuzzy.
+[08-12-2018 @ 08:25:14.299 GMT] Received a start host mode notification on user bau_fuzzy_wuzzy from jtv
+[08-12-2018 @ 15:14:38.085 GMT] jtv: bau_fuzzy_wuzzy has gone offline. exiting host mode.
+[08-12-2018 @ 15:14:38.086 GMT] jtv: bau_fuzzy_wuzzy has gone offline. exiting host mode.

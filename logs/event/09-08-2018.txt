@@ -1,0 +1,21 @@
+[08-09-2018 @ 05:37:11.789 GMT] [init.js:371] Bot modules loaded. Initializing main functions...
+[08-09-2018 @ 05:37:13.037 GMT] [logging.js:194] Starting Log Rotation
+[08-09-2018 @ 05:37:13.046 GMT] [logging.js:206] Finished Log Rotation
+[08-09-2018 @ 05:37:33.356 GMT] [donationHandler.js:40] Donation announcements enabled
+[08-09-2018 @ 10:24:46.427 GMT] [init.js:371] Bot modules loaded. Initializing main functions...
+[08-09-2018 @ 10:24:47.716 GMT] [logging.js:194] Starting Log Rotation
+[08-09-2018 @ 10:24:47.724 GMT] [logging.js:206] Finished Log Rotation
+[08-09-2018 @ 10:25:08.429 GMT] [donationHandler.js:40] Donation announcements enabled
+[08-09-2018 @ 11:51:20.568 GMT] [init.js:371] Bot modules loaded. Initializing main functions...
+[08-09-2018 @ 11:51:21.812 GMT] [logging.js:194] Starting Log Rotation
+[08-09-2018 @ 11:51:21.818 GMT] [logging.js:206] Finished Log Rotation
+[08-09-2018 @ 11:51:42.543 GMT] [donationHandler.js:40] Donation announcements enabled
+[08-09-2018 @ 16:49:10.566 GMT] [init.js:371] Bot modules loaded. Initializing main functions...
+[08-09-2018 @ 16:49:11.846 GMT] [logging.js:194] Starting Log Rotation
+[08-09-2018 @ 16:49:11.856 GMT] [logging.js:206] Finished Log Rotation
+[08-09-2018 @ 16:49:32.581 GMT] [donationHandler.js:40] Donation announcements enabled
+[08-09-2018 @ 17:21:22.001 GMT] [init.js:371] Bot modules loaded. Initializing main functions...
+[08-09-2018 @ 17:21:23.266 GMT] [logging.js:194] Starting Log Rotation
+[08-09-2018 @ 17:21:23.278 GMT] [logging.js:206] Finished Log Rotation
+[08-09-2018 @ 17:21:44.006 GMT] [donationHandler.js:40] Donation announcements enabled
+[08-09-2018 @ 23:04:03.863 GMT] [chatModerator.js:1038] breakie101 was permited by suedeyoung

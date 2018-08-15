@@ -1,0 +1,10 @@
+[08-09-2018 @ 18:04:54.729 GMT] jtv: now hosting fr1sky86.
+[08-09-2018 @ 18:04:54.732 GMT] Received a start host mode notification on user fr1sky86 from jtv
+[08-09-2018 @ 22:26:40.303 GMT] jtv: exited host mode.
+[08-09-2018 @ 22:26:40.306 GMT] jtv: exited host mode.
+[08-09-2018 @ 23:03:45.826 GMT] jtv: breakie101 has been timed out for 5 seconds.
+[08-09-2018 @ 23:03:45.827 GMT] jtv: breakie101 has been timed out for 5 seconds.
+[08-09-2018 @ 23:03:46.324 GMT] jtv: breakie101 has been timed out for 5 seconds.
+[08-09-2018 @ 23:03:46.326 GMT] jtv: breakie101 has been timed out for 5 seconds.
+[08-09-2018 @ 23:04:04.051 GMT] jtv: breakie101 is not banned from this channel.
+[08-09-2018 @ 23:04:04.053 GMT] jtv: breakie101 is not banned from this channel.

@@ -1,0 +1,4 @@
+[08-10-2018 @ 01:27:23.487 GMT] jtv: now hosting friskk.
+[08-10-2018 @ 01:27:23.489 GMT] Received a start host mode notification on user friskk from jtv
+[08-10-2018 @ 10:10:18.755 GMT] jtv: friskk has gone offline. exiting host mode.
+[08-10-2018 @ 10:10:18.757 GMT] jtv: friskk has gone offline. exiting host mode.

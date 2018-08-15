@@ -1,0 +1,4 @@
+[08-13-2018 @ 04:59:09.235 GMT] jtv: now hosting dicewolf.
+[08-13-2018 @ 04:59:09.238 GMT] Received a start host mode notification on user dicewolf from jtv
+[08-13-2018 @ 11:13:15.944 GMT] jtv: dicewolf has gone offline. exiting host mode.
+[08-13-2018 @ 11:13:15.945 GMT] jtv: dicewolf has gone offline. exiting host mode.

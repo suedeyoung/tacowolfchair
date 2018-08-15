@@ -1,0 +1,7 @@
+[08-09-2018 @ 03:56:10.380 GMT] [lambda$sendMessage$0()@DiscordUtil.java:71] Failed to send a message: [DiscordException] Failed to send message due to the channel object being null.
+
+[08-09-2018 @ 03:56:13.907 GMT] [lambda$sendMessage$0()@DiscordUtil.java:71] Failed to send a message: [DiscordException] Failed to send message due to the channel object being null.
+
+[08-09-2018 @ 03:56:42.947 GMT] [lambda$sendMessage$0()@DiscordUtil.java:71] Failed to send a message: [DiscordException] Failed to send message due to the channel object being null.
+
+[08-09-2018 @ 14:47:57.066 GMT] [checkPortAvailabity()@PhantomBot.java:356] Port is already in use: 25000

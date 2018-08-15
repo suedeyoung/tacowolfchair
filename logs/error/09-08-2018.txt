@@ -1,0 +1,28 @@
+[08-09-2018 @ 04:26:30.594 GMT] [customCommands.js:498] Failed to get data from API: org.json.JSONException: JSONObject["62d6c1e10dca476a96c42421180908&q=$1"] not found.
+[08-09-2018 @ 04:31:00.903 GMT] [customCommands.js:498] Failed to get data from API: org.json.JSONException: JSONObject["wind_mph"] not found.
+[08-09-2018 @ 04:31:48.928 GMT] [customCommands.js:498] Failed to get data from API: org.json.JSONException: JSONObject["wind_mph"] not found.
+[08-09-2018 @ 13:26:14.484 GMT] [init.js:308] (hook.call, ircChannelMessage, ./handlers/keywordHandler.js) TypeError: Cannot find function getCommand in object tv.phantombot.event.irc.message.IrcChannelMessageEvent@6f12f7d5.
+[08-09-2018 @ 13:26:16.654 GMT] [init.js:308] (hook.call, ircChannelMessage, ./handlers/keywordHandler.js) TypeError: Cannot find function getCommand in object tv.phantombot.event.irc.message.IrcChannelMessageEvent@46f1bcc4.
+[08-09-2018 @ 13:27:50.344 GMT] [init.js:308] (hook.call, ircChannelMessage, ./handlers/keywordHandler.js) TypeError: Cannot find function getCommand in object tv.phantombot.event.irc.message.IrcChannelMessageEvent@6a3d77bd.
+[08-09-2018 @ 13:27:52.450 GMT] [init.js:308] (hook.call, ircChannelMessage, ./handlers/keywordHandler.js) TypeError: Cannot find function getCommand in object tv.phantombot.event.irc.message.IrcChannelMessageEvent@53cedc52.
+[08-09-2018 @ 13:28:24.040 GMT] [init.js:308] (hook.call, ircChannelMessage, ./handlers/keywordHandler.js) TypeError: Cannot find function getCommand in object tv.phantombot.event.irc.message.IrcChannelMessageEvent@2cde62c7.
+[08-09-2018 @ 16:11:41.653 GMT] [init.js:300] (hook.call, command, ./commands/customCommands.js) JavaException: java.lang.IllegalArgumentException: Illegal pattern character 'f'
+[08-09-2018 @ 16:12:03.032 GMT] [init.js:300] (hook.call, command, ./commands/customCommands.js) JavaException: java.lang.IllegalArgumentException: Illegal pattern character 'f'
+[08-09-2018 @ 16:13:54.205 GMT] [init.js:300] (hook.call, command, ./commands/customCommands.js) JavaException: java.lang.IllegalArgumentException: Illegal pattern character 'f'
+[08-09-2018 @ 16:14:10.548 GMT] [init.js:300] (hook.call, command, ./commands/customCommands.js) JavaException: java.lang.IllegalArgumentException: Illegal pattern character 'f'
+[08-09-2018 @ 16:14:47.155 GMT] [init.js:300] (hook.call, command, ./commands/customCommands.js) JavaException: java.lang.IllegalArgumentException: Illegal pattern character 'f'
+[08-09-2018 @ 16:15:30.548 GMT] [init.js:300] (hook.call, command, ./commands/customCommands.js) JavaException: java.lang.IllegalArgumentException: Illegal pattern character 'f'
+[08-09-2018 @ 16:17:22.284 GMT] [customCommands.js:498] Failed to get data from API: org.json.JSONException: JSONObject[""] not found.
+[08-09-2018 @ 16:17:37.458 GMT] [customCommands.js:498] Failed to get data from API: org.json.JSONException: JSONObject[""] not found.
+[08-09-2018 @ 16:19:08.613 GMT] [customCommands.js:498] Failed to get data from API: org.json.JSONException: JSONObject[""] not found.
+[08-09-2018 @ 16:22:03.492 GMT] [customCommands.js:498] Failed to get data from API: org.json.JSONException: JSONObject[""] not found.
+[08-09-2018 @ 16:23:31.118 GMT] [customCommands.js:498] Failed to get data from API: org.json.JSONException: JSONObject[""] not found.
+[08-09-2018 @ 16:23:59.965 GMT] [customCommands.js:498] Failed to get data from API: org.json.JSONException: JSONObject[""] not found.
+[08-09-2018 @ 16:24:40.998 GMT] [customCommands.js:498] Failed to get data from API: org.json.JSONException: JSONObject[""] not found.
+[08-09-2018 @ 16:24:55.843 GMT] [customCommands.js:498] Failed to get data from API: org.json.JSONException: JSONObject[""] not found.
+[08-09-2018 @ 16:25:13.203 GMT] [customCommands.js:498] Failed to get data from API: org.json.JSONException: JSONObject[""] not found.
+[08-09-2018 @ 16:25:25.635 GMT] [customCommands.js:498] Failed to get data from API: org.json.JSONException: JSONObject[""] not found.
+[08-09-2018 @ 16:28:29.945 GMT] [customCommands.js:530] Failed to get data from API: org.json.JSONException: JSONObject["temp_f{F"] not found.
+[08-09-2018 @ 17:19:39.125 GMT] [init.js:308] (hook.call, discordChannelCommand, ./discord/core/misc.js) JavaException: java.lang.IllegalArgumentException: Stream URL must be a twitch.tv url.
+[08-09-2018 @ 17:20:18.501 GMT] [init.js:308] (hook.call, discordChannelCommand, ./discord/core/misc.js) JavaException: java.lang.IllegalArgumentException: Stream URL must be a twitch.tv url.
+[08-09-2018 @ 17:20:22.753 GMT] [init.js:308] (hook.call, discordChannelCommand, ./discord/core/misc.js) JavaException: java.lang.IllegalArgumentException: Stream URL must be a twitch.tv url.

@@ -1,0 +1,16 @@
+[08-08-2018 @ 10:34:46.395 GMT] [init.js:371] Bot modules loaded. Initializing main functions...
+[08-08-2018 @ 10:34:48.459 GMT] [logging.js:194] Starting Log Rotation
+[08-08-2018 @ 10:34:48.465 GMT] [logging.js:206] Finished Log Rotation
+[08-08-2018 @ 10:37:53.739 GMT] [init.js:371] Bot modules loaded. Initializing main functions...
+[08-08-2018 @ 10:37:55.409 GMT] [logging.js:194] Starting Log Rotation
+[08-08-2018 @ 10:37:55.416 GMT] [logging.js:206] Finished Log Rotation
+[08-08-2018 @ 10:52:11.708 GMT] [init.js:371] Bot modules loaded. Initializing main functions...
+[08-08-2018 @ 10:52:13.389 GMT] [logging.js:194] Starting Log Rotation
+[08-08-2018 @ 10:52:13.397 GMT] [logging.js:206] Finished Log Rotation
+[08-08-2018 @ 11:13:34.085 GMT] [init.js:371] Bot modules loaded. Initializing main functions...
+[08-08-2018 @ 11:13:35.623 GMT] [logging.js:194] Starting Log Rotation
+[08-08-2018 @ 11:13:35.628 GMT] [logging.js:206] Finished Log Rotation
+[08-08-2018 @ 12:10:32.978 GMT] [init.js:371] Bot modules loaded. Initializing main functions...
+[08-08-2018 @ 12:10:34.151 GMT] [logging.js:194] Starting Log Rotation
+[08-08-2018 @ 12:10:34.157 GMT] [logging.js:206] Finished Log Rotation
+[08-08-2018 @ 12:10:54.514 GMT] [donationHandler.js:40] Donation announcements enabled
